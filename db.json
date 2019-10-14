@@ -4,61 +4,43 @@
         "id": 1,
         "title": "Shop Item 1",
         "price": 55,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": ""
       },
       {
         "id": 2,
         "title": "Shop Item 2",
         "price": 18,
-        "description": "Ut enim ad minim veniam."
+        "description": "Ut enim ad minim veniam.",
+        "image": ""
       },
       {
         "id": 3,
         "title": "Shop Item 3",
         "price": 820,
-        "description": "Aliquip ex ea commodo consequat."
+        "description": "Aliquip ex ea commodo consequat.",
+        "image": ""
       },
       {
         "id": 4,
         "title": "Shop Item 4",
         "price": 536,
-        "description": "Exercitation ullamco laboris nisi ut aliquip."
+        "description": "Exercitation ullamco laboris nisi ut aliquip.",
+        "image": ""
       },
       {
         "id": 5,
         "title": "Shop Item 5",
         "price": 88,
-        "description": "Cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident."
+        "description": "Cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident.",
+        "image": ""
       },
       {
         "id": 6,
         "title": "Shop Item 6",
         "price": 43,
-        "description": "Pariatur excepteur sint occaecat."
-      },
-      {
-        "id": 7,
-        "title": "Shop Item 7",
-        "price": 65,
-        "description": "At tellus at urna condimentum mattis pellentesque id nibh tortor."
-      },
-      {
-        "id": 8,
-        "title": "Shop Item 8",
-        "price": 1182,
-        "description": "Scelerisque eu ultrices adipiscing elit."
-      },
-      {
-        "id": 9,
-        "title": "Shop Item 9",
-        "price": 120,
-        "description": "Semper viverra nam libero justo. Praesent elementum facilisis leo vel fringilla."
-      },
-      {
-        "id": 10,
-        "title": "Shop Item 10",
-        "price": 80,
-        "description": "Nisi est sit amet facilisis magna."
+        "description": "Pariatur excepteur sint occaecat.",
+        "image": ""
       }
     ]
   }
